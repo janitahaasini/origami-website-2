@@ -36,8 +36,10 @@ h1{
 
 .item{
     border-radius: 20px;
-    background-color: white;
+    background-color: #ffffff;
     width: 310px;
+    padding: 30px;
+    margin: 25px;
     font-family: fantasy;
 }
 
@@ -50,13 +52,14 @@ h1{
 .menu{
     display: flex;
     justify-content: space-between;
-    background-color:  black;
+    background-color:  #000000;
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 400;
-    color: white;
+    color: #ffffff;
 }
 
 body{
-    background-color: rgb(177, 176, 176);
+    margin:0px;
+    background-color:#f7f2f2;
 }
